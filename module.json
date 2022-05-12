@@ -1,0 +1,49 @@
+{
+	"name": "a-haggard-dream",
+	"title": "A Haggard Dream",
+	"description": "A one-shot adventure for Tomb of Annihilation featuring the Sewn Sisters.",
+	"author": "Grimmash",
+	"version": "0.0.1",
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion": "9",
+	"url": "https://github.com/grimmash/a-haggard-dream",
+	"manifest": "https://raw.githubusercontent.com/grimmash/a-haggard-dream/main/module.json",
+	"download": "https://github.com/grimmash/a-haggard-dream/archive/refs/tags/v0.0.1.zip",
+	"packs": [
+	{
+		"name": "a-haggard-dream-scenes",
+		"label": "A Haggard Dream Scenes",
+		"system": "dnd5e",
+		"path": "./packs/a-haggard-dream-scenes.db",
+		"entity": "Scene"
+	},
+		{
+		"name": "a-haggard-dream-tables",
+		"label": "A Haggard Dream Tables",
+		"system": "dnd5e",
+		"path": "./packs/a-haggard-dream-rolltable.db",
+		"entity": "RollTable"
+	},
+	{
+		"name": "a-haggard-dream-actors",
+		"label": "A Haggard Dream Actors",
+		"system": "dnd5e",
+		"path": "./packs/a-haggard-dream-actors.db",
+		"entity": "Actor"
+	},
+	{
+		"name": "a-haggard-dream-journals",
+		"label": "A Haggard Dream Journals",
+		"system": "dnd5e",
+		"path": "./packs/sa-haggard-dream-journals.db",
+		"entity": "JournalEntry"
+	},
+	{
+		"name": "a-haggard-dream-items",
+		"label": "A Haggard Dream Items",
+		"system": "dnd5e",
+		"path": "./packs/a-haggard-dream-items.db",
+		"entity": "Item"
+	}
+	]
+}
