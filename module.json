@@ -3,12 +3,12 @@
 	"title": "A Haggard Dream",
 	"description": "A short adventure for introducing a coven of hags to your 5e game.",
 	"author": "Grimmash",
-	"version": "1.0.1",
-	"minimumCoreVersion": "9",
-	"compatibleCoreVersion": "9",
+	"version": "1.0.2",
+	"minimumCoreVersion": "9.266",
+	"compatibleCoreVersion": "9.266",
 	"url": "https://github.com/grimmash/a-haggard-dream",
 	"manifest": "https://raw.githubusercontent.com/grimmash/a-haggard-dream/main/module.json",
-	"download": "https://github.com/grimmash/a-haggard-dream/archive/refs/tags/v1.0.1.zip",
+	"download": "https://github.com/grimmash/a-haggard-dream/archive/refs/tags/v1.0.2.zip",
 	"packs": [
 	{
 		"name": "a-haggard-dream-scenes",
