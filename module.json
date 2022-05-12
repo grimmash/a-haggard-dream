@@ -1,14 +1,14 @@
 {
 	"name": "a-haggard-dream",
 	"title": "A Haggard Dream",
-	"description": "A one-shot adventure for Tomb of Annihilation featuring the Sewn Sisters.",
+	"description": "A short adventure for introducing a coven of hags to your 5e game.",
 	"author": "Grimmash",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",
 	"url": "https://github.com/grimmash/a-haggard-dream",
 	"manifest": "https://raw.githubusercontent.com/grimmash/a-haggard-dream/main/module.json",
-	"download": "https://github.com/grimmash/a-haggard-dream/archive/refs/tags/v1.0.0.zip",
+	"download": "https://github.com/grimmash/a-haggard-dream/archive/refs/tags/v1.0.1.zip",
 	"packs": [
 	{
 		"name": "a-haggard-dream-scenes",
