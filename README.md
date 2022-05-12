@@ -1,7 +1,7 @@
 # A Haggard Dream
 A short adventure for introducing a coven of hags to your 5e game.
 
-Adapted from my one-shot on DM's Guild [Sewing up a Dream](https://www.dmsguild.com/product/359199/Sewing-up-a-Dream?affiliate_id=18983).  This versino uses only SRD content and removes direct references to the source campaign.  However it should be very easy to adapt it if you want to use the original version.
+Adapted from my one-shot on DM's Guild [Sewing up a Dream](https://www.dmsguild.com/product/359199/Sewing-up-a-Dream?affiliate_id=18983).  This version uses only SRD content and removes direct references to the source campaign.  However it should be very easy to adapt it if you want to use the original version.
 
 # Instructions
 Install via Foundry.  All content is in the compendiums:
